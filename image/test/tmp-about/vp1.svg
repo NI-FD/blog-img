@@ -1,0 +1,82 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 623 556" width="623" height="556">
+	<title>Layer 1</title>
+	<defs>
+		<linearGradient id="grd1" gradientUnits="userSpaceOnUse"  x1="0.017" y1="557.735" x2="313.575" y2="557.735">
+			<stop offset="0" stop-color="#ffc842"  />
+			<stop offset="1" stop-color="#ffa632"  />
+		</linearGradient>
+		<linearGradient id="grd2" gradientUnits="userSpaceOnUse"  x1="79.208" y1="356.162" x2="133.598" y2="356.162">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd3" gradientUnits="userSpaceOnUse"  x1="179.994" y1="356.161" x2="234.384" y2="356.161">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd4" gradientUnits="userSpaceOnUse"  x1="108.002" y1="507.341" x2="205.589" y2="507.341">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd5" gradientUnits="userSpaceOnUse"  x1="368.388" y1="498.674" x2="622.885" y2="498.674">
+			<stop offset="0" stop-color="#ffc842"  />
+			<stop offset="1" stop-color="#ffa632"  />
+		</linearGradient>
+		<linearGradient id="grd6" gradientUnits="userSpaceOnUse"  x1="432.663" y1="335.069" x2="476.808" y2="335.069">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd7" gradientUnits="userSpaceOnUse"  x1="514.465" y1="335.068" x2="558.61" y2="335.068">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd8" gradientUnits="userSpaceOnUse"  x1="456.033" y1="457.772" x2="535.24" y2="457.772">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd9" gradientUnits="userSpaceOnUse"  x1="205.59" y1="214.644" x2="418.171" y2="214.644">
+			<stop offset="0" stop-color="#ffc842"  />
+			<stop offset="1" stop-color="#ffa632"  />
+		</linearGradient>
+		<linearGradient id="grd10" gradientUnits="userSpaceOnUse"  x1="259.278" y1="77.985" x2="296.153" y2="77.985">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd11" gradientUnits="userSpaceOnUse"  x1="327.608" y1="77.984" x2="364.482" y2="77.984">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+		<linearGradient id="grd12" gradientUnits="userSpaceOnUse"  x1="278.8" y1="180.479" x2="344.961" y2="180.479">
+			<stop offset="0" stop-color="#3b4040"  />
+			<stop offset="1" stop-color="#191617"  />
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: url(#grd1) } 
+		.shp1 { fill: url(#grd2) } 
+		.shp2 { fill: url(#grd3) } 
+		.shp3 { fill: url(#grd4) } 
+		.shp4 { fill: url(#grd5) } 
+		.shp5 { fill: url(#grd6) } 
+		.shp6 { fill: url(#grd7) } 
+		.shp7 { fill: url(#grd8) } 
+		.shp8 { fill: url(#grd9) } 
+		.shp9 { fill: url(#grd10) } 
+		.shp10 { fill: url(#grd11) } 
+		.shp11 { fill: url(#grd12) } 
+	</style>
+	<g id="Layer 1">
+		<path id="&lt;Path&gt;" class="shp0" d="M156.8 242.18C243.38 242.18 313.57 312.37 313.57 398.96C313.57 485.54 243.38 555.74 156.8 555.74C70.21 555.74 0.02 485.54 0.02 398.96C0.02 312.37 70.21 242.18 156.8 242.18Z" />
+		<path id="&lt;Path&gt;" class="shp1" d="M106.4 354.16C91.41 354.16 79.21 341.96 79.21 326.96C79.21 311.97 91.41 299.77 106.4 299.77C121.4 299.77 133.6 311.97 133.6 326.96C133.6 341.96 121.4 354.16 106.4 354.16Z" />
+		<path id="&lt;Path&gt;" class="shp2" d="M234.38 326.96C234.38 341.96 222.18 354.16 207.19 354.16C192.19 354.16 179.99 341.96 179.99 326.96C179.99 311.97 192.19 299.77 207.19 299.77C222.18 299.77 234.38 311.97 234.38 326.96Z" />
+		<path id="&lt;Path&gt;" class="shp3" d="M205.59 433.35L205.59 466.15C205.59 487.76 188.01 505.34 166.39 505.34L147.2 505.34C125.58 505.34 108 487.75 108 466.15L108 433.35C108 427.18 113.02 422.15 119.2 422.15L194.39 422.15C200.57 422.15 205.59 427.18 205.59 433.35Z" />
+		<path id="&lt;Path&gt;" class="shp4" d="M495.64 242.18C565.91 242.18 622.89 299.15 622.89 369.43C622.89 439.7 565.91 496.67 495.64 496.67C425.36 496.67 368.39 439.7 368.39 369.43C368.39 299.15 425.36 242.18 495.64 242.18Z" />
+		<path id="&lt;Path&gt;" class="shp5" d="M454.74 333.07C442.56 333.07 432.66 323.17 432.66 310.99C432.66 298.82 442.56 288.92 454.74 288.92C466.91 288.92 476.81 298.82 476.81 310.99C476.81 323.17 466.91 333.07 454.74 333.07Z" />
+		<path id="&lt;Path&gt;" class="shp6" d="M558.61 310.99C558.61 323.17 548.71 333.07 536.54 333.07C524.37 333.07 514.47 323.17 514.47 310.99C514.47 298.82 524.37 288.92 536.54 288.92C548.71 288.92 558.61 298.82 558.61 310.99Z" />
+		<path id="&lt;Path&gt;" class="shp7" d="M535.24 397.34L535.24 423.96C535.24 441.5 520.97 455.77 503.43 455.77L487.85 455.77C470.3 455.77 456.03 441.5 456.03 423.96L456.03 397.34C456.03 392.33 460.11 388.25 465.12 388.25L526.15 388.25C531.16 388.25 535.24 392.33 535.24 397.34Z" />
+		<path id="&lt;Path&gt;" class="shp8" d="M311.88 0.06C370.58 0.06 418.17 47.65 418.17 106.35C418.17 165.06 370.58 212.64 311.88 212.64C253.18 212.64 205.59 165.06 205.59 106.35C205.59 47.65 253.18 0.06 311.88 0.06Z" />
+		<path id="&lt;Path&gt;" class="shp9" d="M277.72 75.98C267.55 75.98 259.28 67.71 259.28 57.55C259.28 47.38 267.55 39.11 277.72 39.11C287.88 39.11 296.15 47.38 296.15 57.55C296.15 67.71 287.88 75.98 277.72 75.98Z" />
+		<path id="&lt;Path&gt;" class="shp10" d="M364.48 57.54C364.48 67.71 356.21 75.98 346.04 75.98C335.88 75.98 327.61 67.71 327.61 57.54C327.61 47.38 335.88 39.11 346.04 39.11C356.21 39.11 364.48 47.38 364.48 57.54Z" />
+		<path id="&lt;Path&gt;" class="shp11" d="M344.96 129.67L344.96 151.91C344.96 166.56 333.04 178.48 318.39 178.48L305.37 178.48C290.72 178.48 278.8 166.56 278.8 151.91L278.8 129.67C278.8 125.49 282.2 122.08 286.39 122.08L337.37 122.08C341.56 122.08 344.96 125.49 344.96 129.67Z" />
+	</g>
+</svg>
